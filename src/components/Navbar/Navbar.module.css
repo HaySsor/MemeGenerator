@@ -1,0 +1,31 @@
+.navbar {
+	display: flex;
+	background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+	width: 100%;
+	padding: 10px 20px;
+	height: 65px;
+	align-items: center;
+}
+.navbar h2 {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20.7482px;
+	line-height: 24px;
+	letter-spacing: -0.1em;
+	color: #ffffff;
+}
+.navbar h3 {
+	margin-left: auto;
+	font-family: "Inter";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 15px;
+	text-align: right;
+	color: #ffffff;
+}
+.navbar img {
+	width: 31.31px;
+	height: 26.22px;
+	margin-right: 5px;
+}
